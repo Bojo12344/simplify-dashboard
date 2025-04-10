@@ -1,13 +1,1 @@
-{
-  "name": "simplify-dashboard",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "vite": "^4.0.0"
-  }
-}
+// Placeholder content for package.json
